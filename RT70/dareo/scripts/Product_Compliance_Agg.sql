@@ -1,0 +1,1 @@
+# Sample file for Product_Compliance_Agg.sql job

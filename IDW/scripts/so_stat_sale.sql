@@ -1,0 +1,1 @@
+# Sample file format for so_stat_sale.sql
