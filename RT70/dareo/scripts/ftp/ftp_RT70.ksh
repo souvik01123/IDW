@@ -1,1 +1,0 @@
-# Sample file for ftp_RT70.ksh
