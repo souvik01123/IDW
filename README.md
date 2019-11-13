@@ -9,21 +9,25 @@
 
 ## Example of basic commands 
 
+### GIT Clone
 git clone --branch [Branch Name][Repository URL]
+ **eg :** git clone --branch Feature git@git.build.inter.ikea.com:ikeapfubi/IDW.git - To clone a specific repo :
+ Feature: **Branch Name**
+ git@git.build.inter.ikea.com:ikeapfubi/IDW.git: **Repository URL**
 
-**eg :** git clone --branch Feature git@git.build.inter.ikea.com:ikeapfubi/IDW.git - To clone a specific repo :
-Feature: Branch Name   
-git@git.build.inter.ikea.com:ikeapfubi/IDW.git: Repository URL
+### GIT Add
+git add [file name]
+ **eg** : git add README.md / git add .
 
-
-git add <file name>
-eg : git add README.md / git add .
-
+### GIT Commit
 git commit -m " Proper message ie CR NO or #JIRA STORY ID - EXTRA TEXT IF YOU WANT " 
 
-git push origin Feature 
+### GIT Push
+git push origin [Branch Name]
 
-git pull <> Everyday : Your local repo/working dir is updated  
+### GIT Pull
+git pull 
+ + Please pull daily . So that your local repo/working dir is updated  
 
 << to compare files on remote branch
 git log 
