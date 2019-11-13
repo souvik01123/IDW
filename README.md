@@ -10,6 +10,7 @@
 ## Example of basic commands 
 
 git clone --branch [Branch Name][Repository URL]
+
 **eg :** git clone --branch Feature git@git.build.inter.ikea.com:ikeapfubi/IDW.git - To clone a specific repo :
 Feature: Branch Name   
 git@git.build.inter.ikea.com:ikeapfubi/IDW.git: Repository URL
