@@ -1,1 +1,0 @@
-$ file for ftp_IDW01.ksh
